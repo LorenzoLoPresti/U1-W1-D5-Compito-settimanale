@@ -12,3 +12,14 @@ body {
 }
 
 /* HEADER */
+
+/* LOGO */
+.header .logo-container {
+  background-color: black;
+  padding: 40px;
+}
+
+.header .logo-container .logo {
+  width: 180px;
+}
+/* FINE LOGO */
