@@ -1,1 +1,14 @@
 /* Your styles here */
+
+/* COMMON */
+
+body {
+  text-align: center;
+}
+
+.bold {
+  font-weight: 700;
+  color: #24a6cb;
+}
+
+/* HEADER */
